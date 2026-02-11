@@ -36,9 +36,11 @@ Thumbs.db
 # Project specific
 .scratchpad/
 logs/
-output/
+
 *.pkl
 *.joblib
 
 # Claude Code local settings
 .claude/settings.local.json
+
+*.parquet

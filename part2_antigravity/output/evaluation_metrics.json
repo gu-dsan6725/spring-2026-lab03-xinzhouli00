@@ -1,0 +1,24 @@
+{
+  "test_metrics": {
+    "accuracy": 1.0,
+    "precision_macro": 1.0,
+    "recall_macro": 1.0,
+    "f1_macro": 1.0
+  },
+  "cross_validation": {
+    "cv_mean_accuracy": 0.9581,
+    "cv_std_accuracy": 0.0506,
+    "cv_scores": [
+      0.8621,
+      1.0,
+      0.9643,
+      1.0,
+      0.9643
+    ]
+  },
+  "tuned_best_params": {
+    "n_estimators": 100,
+    "max_depth": 5,
+    "learning_rate": 0.1
+  }
+}
